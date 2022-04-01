@@ -29,3 +29,13 @@ your datadir should follow the pattern below:
  when your upscale is 2 ,the data should crop as w(256 or small)*l(256)*h(13 or 15 or 17 ...)
  when your upscale is 3 ,the data should crop as w(128 or small)*l(128)*h(19 ...)
  when your upscale is 4 ,the data should crop as w(64 or small)*l(64)*h(33 ...)
+
+ Citation:
+    If you find this work or code is helpful in your research, please cite:
+    @article{wangliang,
+  title={Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis },
+  author={Chaowei Fang, Liang Wang, Dingwen Zhang,Jun Xu,Yixuan Yuan,Junwei Han},
+  journal={IEEE TPAMI},
+  year={2022},
+  doi={10.1109/TPAMI.2019.2938758}, 
+}
