@@ -1,6 +1,6 @@
 # cvpr_ct_synthesis
 ## Introduction:
-this is the code of paper named " Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis"
+this is the code of paper named " Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis",[paper](https://arxiv.org/abs/2202.04074)
     Considering that the ground-truth intermediate medical slices are always absent in clinical practice, we introduce the incremental cross-view mutual distillation strategy to accomplish this task in the self-supervised learning manner. Specifically, we model this problem from three different views:slice-wise interpolation from axial view and pixel-wise interpolation from coronal and sagittal views. Under this circumstance, the models learned from different views can distill valuable knowledge to guide the learning processes of
 each other. We can repeat this process to make the models synthesize intermediate slice data with increasing interslice resolution. To demonstrate the effectiveness of the proposed approach, we conduct comprehensive experiments on
 a large-scale CT dataset. Quantitative and qualitative comparison results show that our method outperforms state-ofthe-art algorithms by clear margins
