@@ -35,7 +35,6 @@ your datadir should follow the pattern below:
     @article{wangliang,
   title={Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis },
   author={Chaowei Fang, Liang Wang, Dingwen Zhang,Jun Xu,Yixuan Yuan,Junwei Han},
-  journal={IEEE TPAMI},
-  year={2022},
-  doi={10.1109/TPAMI.2019.2938758}, 
+  booktitle={CVPR},
+year={2021}
 }
