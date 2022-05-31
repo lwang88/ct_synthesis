@@ -14,8 +14,7 @@ python main.py --upscale 2 --batch_size 4 --lr 1e-5 --data_dir <path of the trai
 
 The data directory should follow the pattern below:   
 |-traindir   
-  [README.md](https://github.com/wangliang88/cvpr_ct_synthesis/files/8804059/README.md)
-|--volume1.nii.gz   
+  |--volume1.nii.gz   
   |--volume2.nii.gz   
   |--volume3.nii.gz   
   |--...   
