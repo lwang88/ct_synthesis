@@ -19,10 +19,10 @@ The data directory should follow the pattern below:
 &#160;&#160;&#160;|--volume3.nii.gz   
 &#160;&#160;&#160;|--...   
 |-testdir   
-  |--volume1.nii.gz   
-  |--volume2.nii.gz   
-  |--volume3.nii.gz   
-  |--...   
+&#160;&#160;&#160;|--volume1.nii.gz   
+&#160;&#160;&#160;|--volume2.nii.gz   
+&#160;&#160;&#160;|--volume3.nii.gz   
+&#160;&#160;&#160;|--...   
 
 ## Citation:
 If you find this work or code is helpful in your research, please cite:   
