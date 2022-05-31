@@ -13,11 +13,11 @@ cd cvpr_ct_synthesis
 python main.py --upscale 2 --batch_size 4 --lr 1e-5 --data_dir <path of the train data>
 
 The data directory should follow the pattern below:   
-|-traindir   
-  |--volume1.nii.gz   
-  |--volume2.nii.gz   
-  |--volume3.nii.gz   
-  |--...   
+> traindir   
+>>volume1.nii.gz   
+>>volume2.nii.gz   
+>>volume3.nii.gz   
+>>...   
 |-testdir   
   |--volume1.nii.gz   
   |--volume2.nii.gz   
