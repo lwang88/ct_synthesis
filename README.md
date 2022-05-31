@@ -18,11 +18,11 @@ The data directory should follow the pattern below:
 >>volume2.nii.gz   
 >>volume3.nii.gz   
 >>...   
-|-testdir   
-  |--volume1.nii.gz   
-  |--volume2.nii.gz   
-  |--volume3.nii.gz   
-  |--...  
+>testdir   
+>>volume1.nii.gz   
+>>volume2.nii.gz   
+>>volume3.nii.gz   
+>>...  
 
 ## Citation: 
 If you find this work or code is helpful in your research, please cite:   
