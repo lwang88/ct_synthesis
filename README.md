@@ -24,7 +24,7 @@ The data directory should follow the pattern below:
   |--volume3.nii.gz   
   |--...   
 
-## Citation:
+## Citation: 
 If you find this work or code is helpful in your research, please cite:   
  @article{wangliang,   
  title={Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis },   
