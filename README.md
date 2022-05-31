@@ -14,10 +14,10 @@ python main.py --upscale 2 --batch_size 4 --lr 1e-5 --data_dir < path of the tra
 
 The data directory should follow the pattern below:   
 |-traindir   
-&#160;|--volume1.nii.gz   
-|--volume2.nii.gz   
-  |--volume3.nii.gz   
-  |--...   
+&#160;&#160;&#160;|--volume1.nii.gz   
+&#160;&#160;&#160;|--volume2.nii.gz   
+&#160;&#160;&#160;|--volume3.nii.gz   
+&#160;&#160;&#160;|--...   
 |-testdir   
   |--volume1.nii.gz   
   |--volume2.nii.gz   
